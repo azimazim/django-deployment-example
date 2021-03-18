@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="db" uuid="7d4061de-4961-4361-bcc9-ad883783e52c">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\Azimbek\PycharmProjects\djangoProject2\db.sqlite3</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="db [2]" uuid="c7ca96c7-5cab-453f-b858-4351a83cb948">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\Azimbek\PycharmProjects\ProjectTwo\db.sqlite3</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="db [3]" uuid="ed16d5d0-22ee-4186-8f55-13502324c65f">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\Azimbek\PycharmProjects\CourseraPetSelect\db.sqlite3</jdbc-url>
+    </data-source>
+  </component>
+</project>

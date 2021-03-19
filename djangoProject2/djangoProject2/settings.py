@@ -27,7 +27,7 @@ SECRET_KEY = '#%azck*pkcai(#2(#9o-!#2_^i5v+(i9%&4+9bobpq^it8wy=z'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['azimbek.pythonanywhere.com']
 
 
 # Application definition
